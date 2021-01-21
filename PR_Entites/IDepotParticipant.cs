@@ -10,6 +10,6 @@ namespace PR_Entites
         public void ModifierParticipant(Participants p_participant);
         public List<Participants> ObtenirTousLesParticipants();
         public List<Participants> RechercherParticipantParEmploi(string p_emploi);
-        public Participants RechercherParticipantParNom(string nom);
+        public List<Participants> RechercherParticipantParNom(string nom);
     }
 }

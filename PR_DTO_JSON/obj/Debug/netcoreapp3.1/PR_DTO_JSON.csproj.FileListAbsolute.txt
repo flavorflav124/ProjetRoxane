@@ -1,3 +1,12 @@
 C:\Users\Flavie\source\repos\ProjetRoxane\PR_DTO_JSON\bin\Debug\netcoreapp3.1\PR_Entites.dll
 C:\Users\Flavie\source\repos\ProjetRoxane\PR_DTO_JSON\obj\Debug\netcoreapp3.1\PR_DTO_JSON.AssemblyInfoInputs.cache
 C:\Users\Flavie\source\repos\ProjetRoxane\PR_DTO_JSON\obj\Debug\netcoreapp3.1\PR_DTO_JSON.AssemblyInfo.cs
+C:\Users\Flavie\source\repos\ProjetRoxane\PR_DTO_JSON\bin\Debug\netcoreapp3.1\PR_DTO_JSON.deps.json
+C:\Users\Flavie\source\repos\ProjetRoxane\PR_DTO_JSON\bin\Debug\netcoreapp3.1\PR_DTO_JSON.dll
+C:\Users\Flavie\source\repos\ProjetRoxane\PR_DTO_JSON\bin\Debug\netcoreapp3.1\PR_DTO_JSON.pdb
+C:\Users\Flavie\source\repos\ProjetRoxane\PR_DTO_JSON\bin\Debug\netcoreapp3.1\PR_Entites.pdb
+C:\Users\Flavie\source\repos\ProjetRoxane\PR_DTO_JSON\obj\Debug\netcoreapp3.1\PR_DTO_JSON.csprojAssemblyReference.cache
+C:\Users\Flavie\source\repos\ProjetRoxane\PR_DTO_JSON\obj\Debug\netcoreapp3.1\PR_DTO_JSON.csproj.CoreCompileInputs.cache
+C:\Users\Flavie\source\repos\ProjetRoxane\PR_DTO_JSON\obj\Debug\netcoreapp3.1\PR_DTO_JSON.csproj.CopyComplete
+C:\Users\Flavie\source\repos\ProjetRoxane\PR_DTO_JSON\obj\Debug\netcoreapp3.1\PR_DTO_JSON.dll
+C:\Users\Flavie\source\repos\ProjetRoxane\PR_DTO_JSON\obj\Debug\netcoreapp3.1\PR_DTO_JSON.pdb

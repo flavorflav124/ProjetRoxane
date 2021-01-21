@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "GEwxOOwsxk14el4aCE2+EX9VWqvhYaiPg4bPEhkbkiR+cgGw9HhiITZqbhR/lmfiMSqCMhFPtY35eZMINJL0lA==",
+  "dgSpecHash": "T6XnOtd8lVc8j2i5zKysE15wo0u+PrPwbfDvti2lZ0/37vfZarZg1MJ1Xi7e104twT1hTag96wMAX3jg2dr98Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\Flavie\\source\\repos\\ProjetRoxane\\ProjetRoxane\\ProjetRoxane.csproj",
   "expectedPackageFiles": [
@@ -12,6 +12,7 @@
     "C:\\Users\\Flavie\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\5.0.0\\microsoft.extensions.fileproviders.physical.5.0.0.nupkg.sha512",
     "C:\\Users\\Flavie\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\5.0.0\\microsoft.extensions.filesystemglobbing.5.0.0.nupkg.sha512",
     "C:\\Users\\Flavie\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\Flavie\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\Flavie\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
     "C:\\Users\\Flavie\\.nuget\\packages\\system.text.json\\5.0.0\\system.text.json.5.0.0.nupkg.sha512",
     "C:\\Users\\Flavie\\.nuget\\packages\\unity\\5.11.9\\unity.5.11.9.nupkg.sha512"

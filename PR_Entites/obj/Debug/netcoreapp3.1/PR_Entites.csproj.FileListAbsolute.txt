@@ -1,0 +1,9 @@
+C:\Users\Flavie\source\repos\ProjetRoxane\PR_Entites\bin\Debug\netcoreapp3.1\PR_Entites.deps.json
+C:\Users\Flavie\source\repos\ProjetRoxane\PR_Entites\bin\Debug\netcoreapp3.1\PR_Entites.dll
+C:\Users\Flavie\source\repos\ProjetRoxane\PR_Entites\bin\Debug\netcoreapp3.1\PR_Entites.pdb
+C:\Users\Flavie\source\repos\ProjetRoxane\PR_Entites\obj\Debug\netcoreapp3.1\PR_Entites.csprojAssemblyReference.cache
+C:\Users\Flavie\source\repos\ProjetRoxane\PR_Entites\obj\Debug\netcoreapp3.1\PR_Entites.AssemblyInfoInputs.cache
+C:\Users\Flavie\source\repos\ProjetRoxane\PR_Entites\obj\Debug\netcoreapp3.1\PR_Entites.AssemblyInfo.cs
+C:\Users\Flavie\source\repos\ProjetRoxane\PR_Entites\obj\Debug\netcoreapp3.1\PR_Entites.csproj.CoreCompileInputs.cache
+C:\Users\Flavie\source\repos\ProjetRoxane\PR_Entites\obj\Debug\netcoreapp3.1\PR_Entites.dll
+C:\Users\Flavie\source\repos\ProjetRoxane\PR_Entites\obj\Debug\netcoreapp3.1\PR_Entites.pdb

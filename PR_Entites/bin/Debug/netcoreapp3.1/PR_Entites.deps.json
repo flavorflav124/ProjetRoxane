@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PR_Entites/1.0.0": {
+        "runtime": {
+          "PR_Entites.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PR_Entites/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

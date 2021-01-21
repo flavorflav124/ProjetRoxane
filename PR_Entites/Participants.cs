@@ -32,5 +32,9 @@ namespace PR_Entites
             this.noTel = p_noTel;
         }
 
+        public override string ToString()
+        {
+            return $"{this.id} : {this.prenom} {this.nom} {this.ville} {this.noTel} {this.emploi}";
+        }
     }
 }

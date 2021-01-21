@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -65,9 +66,15 @@ namespace PR_DTO_JSON
             return participantsJSON.Select(e => e.VersEntite()).ToList();
         }
 
-        public Participants RechercherParticipantParNom(string p_nom)
+        public List<Participants> RechercherParticipantParNom(string p_nom)
         {
-            throw new NotImplementedException();
+            List<ParticipantJSON> participantJSON = LireFichierSiExiste();
+
+            List<ParticipantJSON> resultat = participantJSON.Where(c => c.nom.Contains(p_nom, StringComparison.InvariantCultureIgnoreCase) ||
+            c.prenom.Contains(p_nom, StringComparison.InvariantCultureIgnoreCase)).ToList();
+
+            return resultat.Select(p => p.VersEntite()).ToList();
+
         }
 
 
