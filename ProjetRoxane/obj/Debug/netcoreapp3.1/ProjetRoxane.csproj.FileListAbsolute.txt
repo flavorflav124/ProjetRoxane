@@ -1,0 +1,14 @@
+C:\Users\Flavie\source\repos\ProjetRoxane\ProjetRoxane\bin\Debug\netcoreapp3.1\ProjetRoxane.exe
+C:\Users\Flavie\source\repos\ProjetRoxane\ProjetRoxane\obj\Debug\netcoreapp3.1\ProjetRoxane.csprojAssemblyReference.cache
+C:\Users\Flavie\source\repos\ProjetRoxane\ProjetRoxane\obj\Debug\netcoreapp3.1\ProjetRoxane.AssemblyInfoInputs.cache
+C:\Users\Flavie\source\repos\ProjetRoxane\ProjetRoxane\obj\Debug\netcoreapp3.1\ProjetRoxane.AssemblyInfo.cs
+C:\Users\Flavie\source\repos\ProjetRoxane\ProjetRoxane\bin\Debug\netcoreapp3.1\Unity.Abstractions.dll
+C:\Users\Flavie\source\repos\ProjetRoxane\ProjetRoxane\bin\Debug\netcoreapp3.1\Unity.Container.dll
+C:\Users\Flavie\source\repos\ProjetRoxane\ProjetRoxane\obj\Debug\netcoreapp3.1\ProjetRoxane.csproj.CopyComplete
+C:\Users\Flavie\source\repos\ProjetRoxane\ProjetRoxane\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Flavie\source\repos\ProjetRoxane\ProjetRoxane\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Flavie\source\repos\ProjetRoxane\ProjetRoxane\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Flavie\source\repos\ProjetRoxane\ProjetRoxane\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Flavie\source\repos\ProjetRoxane\ProjetRoxane\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Flavie\source\repos\ProjetRoxane\ProjetRoxane\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Flavie\source\repos\ProjetRoxane\ProjetRoxane\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll

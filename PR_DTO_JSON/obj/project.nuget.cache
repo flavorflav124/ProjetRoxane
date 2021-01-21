@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ms8mGVv1LhiP8A4rTDGYYnHn9qiHg0Fdj1/xZCo3T64Mu4hb4BXW/XLEiM6aMndlSTyn1RGHHhp9twuQ5sVI0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Flavie\\source\\repos\\ProjetRoxane\\PR_DTO_JSON\\PR_DTO_JSON.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Flavie\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

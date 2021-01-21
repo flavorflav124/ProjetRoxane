@@ -1,0 +1,3 @@
+C:\Users\Flavie\source\repos\ProjetRoxane\PR_DTO_JSON\bin\Debug\netcoreapp3.1\PR_Entites.dll
+C:\Users\Flavie\source\repos\ProjetRoxane\PR_DTO_JSON\obj\Debug\netcoreapp3.1\PR_DTO_JSON.AssemblyInfoInputs.cache
+C:\Users\Flavie\source\repos\ProjetRoxane\PR_DTO_JSON\obj\Debug\netcoreapp3.1\PR_DTO_JSON.AssemblyInfo.cs
