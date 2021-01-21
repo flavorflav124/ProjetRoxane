@@ -35,22 +35,37 @@ namespace PR_DTO_JSON
           
         }
 
-        public Participants ModifierParticipant()
+        public void ModifierParticipant(Participants p_participant)
         {
-            throw new NotImplementedException();
+            List<ParticipantJSON> partcicipantsFichier = LireFichierSiExiste();
+
+            //Si on parcourt tous les id, et quon enleve tous ceux qui ont ce Id ca devrait donnee 1, sinon il nest pas present
+            if (partcicipantsFichier.RemoveAll(c => c.id == p_participant.id) != 1)
+            {
+                throw new Exception();
+            }
+
+            ParticipantJSON participant = new ParticipantJSON(p_participant);
+            partcicipantsFichier.Add(participant);
+
+            SauvegarderDepot(partcicipantsFichier);
         }
 
         public List<Participants> ObtenirTousLesParticipants()
         {
-            throw new NotImplementedException();
+            List<ParticipantJSON> participantsJSON = LireFichierSiExiste();
+            return participantsJSON.Select(p => p.VersEntite()).ToList();
         }
 
-        public List<Participants> RechercherParticipantParEmploi()
+        public List<Participants> RechercherParticipantParEmploi(string p_emploi)
         {
-            throw new NotImplementedException();
+            List<ParticipantJSON> participantsJSON = LireFichierSiExiste();
+
+            participantsJSON.Where(p => p.emploi == p_emploi);
+            return participantsJSON.Select(e => e.VersEntite()).ToList();
         }
 
-        public Participants RechercherParticipantParNom()
+        public Participants RechercherParticipantParNom(string p_nom)
         {
             throw new NotImplementedException();
         }
